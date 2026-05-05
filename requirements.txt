@@ -1,0 +1,5 @@
+# Python deps for main/continuous_time_identification (Navier-Stokes)/NavierStokes.ipynb
+tensorflow>=2.12
+numpy>=1.22
+scipy>=1.9
+matplotlib>=3.5

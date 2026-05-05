@@ -1,0 +1,41 @@
+# NavierStokes-PINN / capstone-pinn-cfd
+# Tracked by default: README, requirements.txt, Utilities/plotting.py,
+# main/continuous_time_identification (Navier-Stokes)/NavierStokes.ipynb
+# Large CFD exports live under main/Data/ and stay local unless you opt in (see bottom).
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+ENV/
+.env
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- OS / editors ---
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# --- PINN / notebook generated outputs ---
+main/continuous_time_identification (Navier-Stokes)/figures/
+*.npz
+
+# --- CFD / Fluent / ANSYS-style data (large, regenerable) ---
+main/Data/
+
+# Optional: if you add small benchmark .mat files under main/Data/ again, track them with
+# un-ignore rules *after* the main/Data/ line, e.g.:
+# !main/Data/cylinder_nektar_wake.mat
+# !main/Data/cylinder_nektar_t0_vorticity.mat
