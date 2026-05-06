@@ -20,7 +20,7 @@ The focus of this project is 2D incompressible flow around a circular cylinder.
 ### CFD Setup
 - Geometry: 2D cylinder in flow domain  
 - Mesh generated using ANSYS tools  
-- Flow data obtained from reference dataset (`cylinder_nektar_wake.mat`)  
+- Flow data obtained from reference dataset (`2d_cylinder_wake.mat`)  
 
 ### PINN Model
 - Input: (t, x, y)  
