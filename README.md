@@ -62,15 +62,15 @@ This shows the computational domain and mesh used for the cylinder flow simulati
 
 Reference vorticity (ground truth CFD result):
 
-![Reference Vorticity Full](screenshots/vorticity_reference_full.png)
+![Reference Vorticity Full](screenshots/vorticity_reference_full.png)S
 
 Zoomed comparison of predicted vs reference vorticity:
 
 **Predicted:**
-![Predicted Vorticity](screenshots/vorticity_pred.png)
+![Predicted Vorticity](screenshots/vorticity_pred.png.png)
 
 **Reference:**
-![Reference Vorticity](screenshots/vorticity_ref.png)
+![Reference Vorticity](screenshots/vorticity_ref.png.png)
 
 ✔ The model successfully captures the vortex shedding pattern behind the cylinder  
 ✔ Flow structures are learned well even with limited data  
