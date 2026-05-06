@@ -51,14 +51,14 @@ Loss function:
 
 ## Results
 
-### 🔹 Mesh Setup
+### Mesh Setup
 This shows the computational domain and mesh used for the cylinder flow simulation.
 
 ![Mesh](screenshots/mesh.png)
 
 ---
 
-### 🔹 Vorticity Comparison
+### Vorticity Comparison
 
 Reference vorticity (ground truth CFD result):
 
@@ -77,7 +77,7 @@ Zoomed comparison of predicted vs reference vorticity:
 
 ---
 
-### 🔹 Pressure Comparison
+### Pressure Comparison
 
 **Predicted Pressure:**
 ![Predicted Pressure](screenshots/pressure_pred.png.png)
@@ -85,7 +85,7 @@ Zoomed comparison of predicted vs reference vorticity:
 **Reference Pressure:**
 ![Reference Pressure](screenshots/pressure_ref.png.png)
 
-⚠ Pressure prediction is less accurate  
+Pressure prediction is less accurate  
 - This is expected because pressure is not directly constrained by data  
 - It is learned indirectly through the governing equations  
 
