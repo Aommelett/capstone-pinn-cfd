@@ -72,8 +72,8 @@ Zoomed comparison of predicted vs reference vorticity:
 **Reference:**
 ![Reference Vorticity](screenshots/vorticity_ref.png.png)
 
-✔ The model successfully captures the vortex shedding pattern behind the cylinder  
-✔ Flow structures are learned well even with limited data  
+The model successfully captures the vortex shedding pattern behind the cylinder  
+Flow structures are learned well even with limited data  
 
 ---
 
