@@ -126,7 +126,7 @@ Zoomed comparison of predicted vs reference vorticity:
 ## How to Run
 1. Clone repository  
 2. Place dataset in `main/Data/`  
-3. Run main script or notebook  
+3. Run `main/continuous_time_identification (Navier-Stokes)/NavierStokes.ipynb`
 
 ---
 
