@@ -80,10 +80,10 @@ Zoomed comparison of predicted vs reference vorticity:
 ### 🔹 Pressure Comparison
 
 **Predicted Pressure:**
-![Predicted Pressure](screenshots/pressure_pred.png)
+![Predicted Pressure](screenshots/pressure_pred.png.png)
 
 **Reference Pressure:**
-![Reference Pressure](screenshots/pressure_ref.png)
+![Reference Pressure](screenshots/pressure_ref.png.png)
 
 ⚠ Pressure prediction is less accurate  
 - This is expected because pressure is not directly constrained by data  
